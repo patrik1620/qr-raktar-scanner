@@ -1,0 +1,26 @@
+{
+  "id": "./app.html",
+  "name": "QR Raktár – Mobil",
+  "short_name": "QR Raktár",
+  "description": "QR-olvasó és raktárkezelő mobil indítópult",
+  "lang": "hu",
+  "start_url": "./app.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7fc",
+  "theme_color": "#145696",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
